@@ -34,7 +34,8 @@ int main() {
     int category, idx, score, rounds = 3;
     char answer[50];
     char playAgain;
-
+    
+     //random number generator 
     srand(time(0));
 
     do {
