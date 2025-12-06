@@ -21,9 +21,13 @@ Sports
 🚀 Getting Started
 
 🔧 Prerequisites
+
 You need GCC or any C compiler installed.
-Windows: Install MinGW or TDM-GCC
+
+Windows: Install MinGW or TDM-GCC.
+
 Linux/macOS: GCC is usually preinstalled.
+
 Check your compiler:
 gcc --version
 
@@ -48,12 +52,12 @@ Type your answer: Tiger
 
 📚 Concepts Used 
 
-Arrays
-String comparison
-Random number generation (rand() / srand())
-Character input handling
-Loops and conditions
-Simple game logic
+Arrays,
+String comparison,
+Random number generation (rand() / srand()),
+Character input handling,
+Loops and conditions,
+Simple game logic,
 This project is perfect for beginners practicing C fundamentals.
 
 
