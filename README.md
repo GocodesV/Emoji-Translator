@@ -1,4 +1,4 @@
-🎮 Emoji Translator Game (C Project)
+🎮 Emoji Translator Game (C Project )
 
 A fun and interactive Emoji Guessing Game built in C language, perfect for beginners who want to practice arrays, random number generation, string comparison, loops, and user interaction.
 Players choose a category, view an emoji, and try to guess the correct word. The game supports case-insensitive matching and includes multiple rounds with scoring.
